@@ -1,0 +1,19 @@
+ .navBar{
+    background-color:var(--background-color);
+    width: 100vw;
+    align-items: center;
+    display: flex;
+    padding: 50px;
+
+    ul{
+        display: inline;
+        color:var(--text-color);
+        margin-right: 10px;
+        font-family: 'Playfair', monospace ;
+        font-weight: 800;
+        font-size: larger;
+     }
+     
+    
+}
+

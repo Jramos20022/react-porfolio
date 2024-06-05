@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    height: 100vh;
+
+    img{
+        height: 200px;
+        width: 250px;
+        background-color: var(--project-card-bg);
+    }
+}
+.projectsContainer{
+    padding: 20px;
+}
+.hover{
+    cursor: pointer;
+}
+
+h3 p {
+    text-decoration: none;
+}
